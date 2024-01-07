@@ -128,7 +128,33 @@ body{
     font-size: 30px;
     width: 100%;
 }
-/*  */
+/* Styles for call now section  */
+.call-now-content {
+    background-image: url('../images/gradient2.png'), url('../images/watch.png');
+    backface-visibility: visible;
+    background-repeat: no-repeat;
+    background-size: auto;
+    margin: 135px auto;
+    height: 300px;
+    background-position: center;
+    width: 100%;
+    -webkit-backface-visibility: visible;
+}
+.section-title  {
+    /* background-color: #F15B22; */
+   padding: 60px 0px 0px 220px;
+   max-width: 40%;
+}
+.call-now button{
+    background-color: red;
+    margin:10px 0px 25px 220px;
+    padding: 20px 40px;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+
+}
+
 /*  */
 /*  */
 /*  */
